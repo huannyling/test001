@@ -16,4 +16,6 @@ We hope to achieve a lot.
 
 # Conclusion
 
-This is truly a great proposal.
+I need a real conclusion.
+This conclusion should have a few paragraphs.
+They must be well justified.
