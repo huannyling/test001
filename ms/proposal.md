@@ -26,4 +26,7 @@ They must be well justified.
 
 I am testing a new branch.
 
+## Showing how to resolve conflicts
+
+editing this on test branch
 editing this in main branch
